@@ -1,0 +1,24 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide Goa</string>
+    <string name="entertainment_theater">Movie Theater</string>
+    <string name="bardez_goa">Bardez, Goa</string>
+    <string name="laplage_restaurant">Best place for a chilling lunch</string>
+    <string name="nuvemgoa">Nuvem, Goa</string>
+    <string name="sakana_restaurant">Japanese Restaurant</string>
+    <string name="mobor_beach">Mobor Beach</string>
+    <string name="sinquerim_beach">Sinquerim Beach</string>
+    <string name="beach_access_mobor">Cavelossim,Goa</string>
+    <string name="beach_access_sinquerim">Candolim, Goa </string>
+    <string name="phrase_come_here">Come here.</string>
+    <string name="parks">Parks</string>
+    <string name="entertainment">Fun</string>
+    <string name="restaurants">Eats</string>
+    <string name="beaches">Beach\nAccess</string>
+    <string name="splashdown_waterpark">Splashdown Waterpark</string>
+    <string name="laplage">La Plage</string>
+    <string name="froggy">Froggyland</string>
+    <string name="sakana">Sakana</string>
+    <string name="cinemas">Maquinez Palace Theatre</string>
+
+</resources>
